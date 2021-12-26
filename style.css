@@ -146,7 +146,7 @@ header .rightSide{
     text-decoration: none;
     color: var(--black);
     font-weight: 500;
-    font-size: 1.25vw;
+    font-size: 1.25em;
 }
 .navigation{
     position: absolute;
